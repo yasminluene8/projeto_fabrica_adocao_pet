@@ -136,7 +136,6 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
-**Desenvolvido com ❤️ para ajudar animais a encontrarem um lar amoroso.**
-```
+**Desenvolvido com ❤️ para ajudar animais a encontrarem um lar amoroso.*
 
 
