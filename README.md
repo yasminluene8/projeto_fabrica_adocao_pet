@@ -1,4 +1,4 @@
-```markdown
+
 # 🐕 Formulário de Adoção de Animais
 
 Um sistema web desenvolvido em Flask para gerenciar solicitações de adoção de animais, com envio automático de e-mails e armazenamento de dados.
